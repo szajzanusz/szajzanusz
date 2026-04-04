@@ -13,7 +13,7 @@
 
 #### 🧰 Environment
 <p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-ffd000?style=flat&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Brave-FF7139?style=flat&logo=brave&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
