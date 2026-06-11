@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyAutoGUI-A6B91A?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-2aed80?style=flat&logo=mongodb">
+  <img src="https://img.shields.io/badge/MongoDB-00ed64?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/Leszek%20Engine-03c200?style=flat&logo=godot">
   <img src="https://img.shields.io/badge/Unity-050505?style=flat&logo=unity">
 </p>
